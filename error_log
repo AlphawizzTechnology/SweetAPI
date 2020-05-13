@@ -1,0 +1,49 @@
+[24-Dec-2019 14:06:48 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 233
+[24-Dec-2019 14:10:33 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 233
+[24-Dec-2019 14:13:27 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 233
+[24-Dec-2019 14:14:38 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 233
+[25-Dec-2019 07:11:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ganguram/public_html/sweet_api/application/models/ContactModel.php on line 24
+[25-Dec-2019 07:17:54 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/models/ContactModel.php on line 22
+[25-Dec-2019 07:29:46 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/models/ContactModel.php on line 21
+[26-Dec-2019 09:29:29 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/ganguram/public_html/sweet_api/application/controllers/SocialLogin.php on line 36
+[26-Dec-2019 10:01:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '$datas' (T_VARIABLE) in /home/ganguram/public_html/sweet_api/application/models/SocialMediaLoginModel.php on line 25
+[26-Dec-2019 10:10:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/ganguram/public_html/sweet_api/application/models/SocialMediaLoginModel.php on line 25
+[26-Dec-2019 10:39:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/ganguram/public_html/sweet_api/application/models/SocialMediaLoginModel.php on line 23
+[26-Dec-2019 12:16:38 Etc/GMT] PHP Parse error:  syntax error, unexpected ';' in /home/ganguram/public_html/sweet_api/application/controllers/SocialLogin.php on line 27
+[26-Dec-2019 12:21:04 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ganguram/public_html/sweet_api/application/controllers/SocialLogin.php on line 27
+[26-Dec-2019 12:21:49 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ganguram/public_html/sweet_api/application/controllers/SocialLogin.php on line 27
+[26-Dec-2019 12:23:27 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ganguram/public_html/sweet_api/application/controllers/SocialLogin.php on line 27
+[26-Dec-2019 12:24:06 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ganguram/public_html/sweet_api/application/controllers/SocialLogin.php on line 27
+[26-Dec-2019 12:25:04 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/ganguram/public_html/sweet_api/application/models/SocialMediaLoginModel.php on line 19
+[26-Dec-2019 12:25:21 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_rows() in /home/ganguram/public_html/sweet_api/application/models/SocialMediaLoginModel.php on line 19
+[26-Dec-2019 12:29:49 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/ganguram/public_html/sweet_api/application/models/SocialMediaLoginModel.php on line 36
+[28-Dec-2019 10:20:30 Etc/GMT] PHP Fatal error:  Call to a member function set_userdata() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 215
+[28-Dec-2019 10:27:03 Etc/GMT] PHP Fatal error:  Call to a member function set_userdata() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 213
+[30-Dec-2019 06:36:00 Etc/GMT] PHP Fatal error:  Call to undefined function expload() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 26
+[30-Dec-2019 08:07:38 Etc/GMT] PHP Fatal error:  Call to a member function insert() on null in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 34
+[30-Dec-2019 14:00:19 Etc/GMT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 110
+[30-Dec-2019 14:21:00 Etc/GMT] PHP Fatal error:  Call to undefined method Payment::useCurl() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 95
+[31-Dec-2019 06:10:56 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 304
+[31-Dec-2019 06:18:07 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 304
+[31-Dec-2019 06:19:35 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 304
+[31-Dec-2019 07:06:36 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[31-Dec-2019 07:14:43 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/models/ContactModel.php on line 21
+[31-Dec-2019 08:27:00 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Testing.php on line 12
+[31-Dec-2019 09:33:55 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[31-Dec-2019 10:04:09 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[31-Dec-2019 12:49:56 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_rows() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 143
+[31-Dec-2019 12:57:20 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 157
+[31-Dec-2019 14:22:47 Etc/GMT] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::post() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 71
+[31-Dec-2019 14:25:26 Etc/GMT] PHP Fatal error:  Call to undefined method Payment::useCurl() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 111
+[31-Dec-2019 14:29:35 Etc/GMT] PHP Fatal error:  Call to undefined method Payment::useCurl() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 108
+[31-Dec-2019 14:30:04 Etc/GMT] PHP Fatal error:  Call to undefined method Payment::useCurl() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 108
+[01-Jan-2020 11:03:39 Etc/GMT] PHP Fatal error:  Call to a member function userdata() on null in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 69
+[02-Jan-2020 08:32:10 Etc/GMT] PHP Fatal error:  Cannot redeclare Payment::clearNotification_get() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 327
+[02-Jan-2020 08:32:23 Etc/GMT] PHP Fatal error:  Cannot redeclare Payment::clearNotification_get() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 327
+[02-Jan-2020 08:32:46 Etc/GMT] PHP Fatal error:  Cannot redeclare Payment::clearNotification_get() in /home/ganguram/public_html/sweet_api/application/controllers/Payment.php on line 327
+[02-Jan-2020 10:42:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '}' in /home/ganguram/public_html/sweet_api/application/models/Products_Model.php on line 206
+[02-Jan-2020 13:48:07 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[02-Jan-2020 13:49:16 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[02-Jan-2020 13:50:36 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[02-Jan-2020 13:51:02 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
+[02-Jan-2020 13:51:08 Etc/GMT] PHP Fatal error:  Call to a member function set_header() on null in /home/ganguram/public_html/sweet_api/application/controllers/Authentication.php on line 303
